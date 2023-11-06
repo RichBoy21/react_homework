@@ -1,0 +1,11 @@
+.history {
+    display: none;
+}
+
+
+
+
+.visible {
+    display: block;
+    background-color: aqua;
+}

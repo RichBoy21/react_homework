@@ -1,0 +1,11 @@
+.contacts_container {
+    display: none;
+}
+
+
+
+
+.visible {
+    display: block;
+    background-color: aqua;
+}
